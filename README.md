@@ -1,6 +1,6 @@
 # bodysmart_database
 
-bodysmart is a interactive python program which allowed to calculated different body mass indices.
+bodysmart is a interactive python program which allowed to calculate different body mass indices.
 Secondly, a shell program allowed to transform output saved information from bodysmart.py in a tabulated database.
 
 - usage
